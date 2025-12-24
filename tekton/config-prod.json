@@ -1,0 +1,9 @@
+{
+    "service_name": "rpmcompintelui",
+    "image": "quay-prod.elevancehealth.com/emcmp/crln-genai-prod-img-rpmcompintelui",
+    "dockerfile": "rpmcompintelui/Dockerfile",
+    "context": "rpmcompintelui",
+    "reqfile": "",
+    "repo_url": "https://bitbucket.elevancehealth.com/scm/AEDLK8S/ncr_aedleks_emcmp_deploy.git",
+    "repo_name": "ncr_aedleks_emcmp_deploy"
+}

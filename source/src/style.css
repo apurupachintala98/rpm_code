@@ -1,0 +1,5 @@
+
+:root { color-scheme: light; }
+html, body, #root { height: 100%; }
+a { color: #144E99; text-decoration: none; }
+a:hover { text-decoration: underline; }
